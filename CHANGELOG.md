@@ -5,6 +5,9 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+# [0.0.2](https://github.com/kunlun-qilian/utils/compare/v0.0.1...v0.0.2)
+
+
 # 0.0.1
 
 ### Features
