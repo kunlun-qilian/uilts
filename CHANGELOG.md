@@ -5,7 +5,16 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+# [0.1.0](https://github.com/kunlun-qilian/utils/compare/v0.0.2...v0.1.0)
+
+### Features
+
+* **feat** 🎸 dump sonic 1.11.2 ([f0a9bfb](https://github.com/kunlun-qilian/utils/commit/f0a9bfbe9cd3e2105be6f210e758dbed49c0989e))
+
+
+
 # [0.0.2](https://github.com/kunlun-qilian/utils/compare/v0.0.1...v0.0.2)
+
 
 
 # 0.0.1
